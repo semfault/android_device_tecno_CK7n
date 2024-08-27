@@ -344,12 +344,12 @@ PRODUCT_COPY_FILES += \
 # Overlays
 PRODUCT_PACKAGES += \
     CarrierConfigOverlay \
-	FrameworksResOverlayLG8n \
-	SettingsProviderOverlayLG8n \
-	SettingsResOverlayLG8n \
-	SystemUIOverlayLG8n \
-	TelephonyOverlayLG8n \
-	WifiResOverlayLG8n
+	FrameworksResOverlayCK7n \
+	SettingsProviderOverlayCK7n \
+	SettingsResOverlayCK7n \
+	SystemUIOverlayCK7n \
+	TelephonyOverlayCK7n \
+	WifiResOverlayCK7n
 
 # Lineage-Specific Overlays
 PRODUCT_PACKAGES += \
@@ -541,4 +541,4 @@ PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,$(LOCAL_PATH)/configs/wifi/,$(TARGET_COPY_OUT_VENDOR)/etc/wifi)
 
 # Inherit the proprietary files
-$(call inherit-product, vendor/tecno/LG8n/LG8n-vendor.mk)
+$(call inherit-product, vendor/tecno/CK7n/CK7n-vendor.mk)

@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "WifiResOverlayLG8n",
+    name: "SettingsProviderOverlayCK7n",
     vendor: true
 }

@@ -1,9 +1,9 @@
 [
   {
     "remote"      : "github",
-    "repository"  : "Anything-at-25-00/android_vendor_tecno_LG8n",
+    "repository"  : "Anything-at-25-00/android_vendor_tecno_CK7n",
     "branch"      : "fourteen",
-    "target_path" : "vendor/tecno/LG8n"
+    "target_path" : "vendor/tecno/CK7n"
   },
   {
     "remote"      : "github",
@@ -13,9 +13,9 @@
   },
   {
     "remote"      : "github",
-    "repository"  : "Anything-at-25-00/device_tecno_lg8n_kernel",
+    "repository"  : "Anything-at-25-00/android_device_tecno_CK7n-kernel",
     "branch"      : "lineage-21",
-    "target_path" : "device/tecno/LG8n-kernel"
+    "target_path" : "device/tecno/CK7n-kernel"
   },
   {
     "remote"      : "github",

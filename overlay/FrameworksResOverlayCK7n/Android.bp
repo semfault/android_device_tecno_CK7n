@@ -5,7 +5,7 @@
 //
 
 runtime_resource_overlay {
-    name: "SettingsResOverlayLG8n",
+    name: "FrameworksResOverlayCK7n",
     sdk_version: "current",
     product_specific: true,
     resource_dirs: ["res"]
