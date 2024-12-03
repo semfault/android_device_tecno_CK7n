@@ -1,4 +1,4 @@
-# Device tree for the Infinix Note 30 (X6833B)
+# Device tree for the TECNO CAMON 20 Pro (CK7n)
 
 ## Device specifications
 
@@ -9,17 +9,17 @@
 | GPU                     | Mali-G57 MC2                                                |
 | Memory                  | 8GB                                                         |
 | Shipped Android version | 13                                                          |
-| Storage                 | 128GB / 256GB                                               |
+| Storage                 | 256GB                                               |
 | MicroSD                 | MicroSDXC                                                   |
 | Battery                 | Non-removable Li-Po 5000 mAh                                |
-| Dimensions              | 168.6 x 76.6 x 8.6 mm                                       |
-| Display                 | 1080 x 2460 pixels, 6.78 inches                             |
-| Rear Camera 1           | 64 MP, f/1.7, (wide), 1/2", 0.7µm, PDAF                     |
+| Dimensions              | 163.4 x 76.7 x 7.8 mm                                       |
+| Display                 | 1080 x 2400 pixels, 6.67 inches                             |
+| Rear Camera 1           | 	64 MP, f/1.7, 25mm (wide), 1/1.7", 0.8µm, PDAF                     |
 | Rear Camera 2           | 2 MP, f/2.4, (depth)                                        |
 | Rear Camera 3           | QVGA                                                        |
-| Front Camera            | 16 MP, f/2.0, (wide)                                        |
+| Front Camera            | 	32 MP, f/2.5, 24mm (wide), 1/2.8", 0.8µm                                        |
 
 
 ## Device Picture
 
-![Infinix Note 30](https://fdn2.gsmarena.com/vv/pics/infinix/infinix-note30-4g-1.jpg)
+![TECNO CAMON 20 Pro](https://fdn2.gsmarena.com/vv/pics/tecno/tecno-camon20-pro-1.jpg)
